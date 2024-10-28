@@ -1,0 +1,14 @@
+Hey Guys!!!
+
+In this Flight Booking System, which is written in Java language, your system should have........
+
+1. MySQL (Database to store Data)
+(NOTE:- Remember the Password of MySQL application(in Setup mode))
+
+2. JDBC Driver of MySQL (Java Database Connectivity Driver) (Connecting Database with Java Application)
+
+3. JDK setup (Java Development Kit) (Developing Java Application)
+
+If your system have all the requirements, then you can proceed to run the java code.
+
+Enter your MySQL Password at line 13 of main.java file to get the connection with Database.
